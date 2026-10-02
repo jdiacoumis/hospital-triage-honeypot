@@ -1,0 +1,3 @@
+#!/bin/sh
+# sara - SARA service desk client. The queue service runs as the sara account.
+exec sudo -n -u sara /usr/local/lib/sara/sara-core "$@"

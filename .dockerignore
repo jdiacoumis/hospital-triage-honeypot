@@ -1,0 +1,11 @@
+**/__pycache__/
+.venv/
+.env
+logs/
+.git/
+data/
+docs/
+README.md
+SUMMARY.md
+FINDINGS.md
+qc.json
